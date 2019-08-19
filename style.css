@@ -1,0 +1,33 @@
+.context {
+    width: 1000px;
+    height: auto;
+    margin: auto;
+}
+
+.button {
+    width: 500px;
+    margin: auto;
+}
+
+input {
+    width: 200px;
+    height: 50px;
+    background-color: white;
+    border: 2px solid black;
+    margin-top: 10px;
+    margin-left: 80px;
+    font-size: 30px;
+}
+
+input:hover {
+    outline: 0 !important;
+    transform: scale(1.1);
+}
+
+#text {
+    width: 50%;
+    height: auto;
+    margin: auto;
+    margin-top: 30px;
+    text-align: center;
+}
